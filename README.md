@@ -1,6 +1,6 @@
 # px4-firmware
 
-This repository holds the code of the px4 flight stack. This code is compiled and runs correctly with the simulated vehicles. It was first cloned from the [PX4/Firmware repository](https://github.com/PX4/Firmware) in the summer of 2019. It has not been updated from the original repository since. This repository acts as a working version the px4 flight stack. It is not meant to be an up to date version of the px4 flight stack. 
+This repository holds the code of the px4 flight stack. This code is compiled and runs correctly with the simulated vehicles. It was first cloned from the [PX4/Firmware repository](https://github.com/PX4/Firmware) in the summer of 2019. It has not been updated from the original repository since. This repository acts as a working version of the px4 flight stack. It is not meant to be an up to date version of the px4 flight stack. 
 
 ## Running Simulation
 
